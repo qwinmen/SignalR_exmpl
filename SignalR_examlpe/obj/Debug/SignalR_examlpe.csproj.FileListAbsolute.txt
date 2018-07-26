@@ -89,3 +89,14 @@ C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\Sig
 C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\obj\Debug\SignalR_examlpe.csproj.CopyComplete
 C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\obj\Debug\SignalR_examlpe.dll
 C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\obj\Debug\SignalR_examlpe.pdb
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.Owin.dll
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.Owin.Security.dll
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Owin.dll
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.Owin.xml
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dmitry.safronov\Documents\Visual Studio 2015\Projects\Projects\Xata\SignalR_examlpe\SignalR_examlpe\bin\Microsoft.Owin.Security.xml
